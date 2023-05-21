@@ -60,4 +60,5 @@ Steps to use:
 
 ![image8](https://github.com/SravaniThota96/DeepLearning/assets/111466561/34d016b3-1717-4c6f-9895-bc04df282e8f)
 
-
+##Further Experiments
+The application has been enhanced using YOLO v8 that provides fast and accurate results for image detection
